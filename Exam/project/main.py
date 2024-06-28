@@ -342,7 +342,6 @@ def connect():
 
 
 
-
-# We are running main_manu function
+# We are running connecting function and main_menu function.
 connect()
 main_menu()
